@@ -26,7 +26,7 @@
         "version": "beta"
     },
     "splashScreenImage": "https://cdn.openfin.co/demos/hello/splashscreen/splash_hello.png",
-    "displayCertifiedInstallBanner": true,
+    "enableAppDirectorySettings": true,
     "shortcut": {
         "company": "OpenFin",
         "description": "Hello OpenFin",
